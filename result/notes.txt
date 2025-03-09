@@ -1,0 +1,4 @@
+Notes:
+
+Single Instance Elastic Beanstalk deployment does not have an ELB
+Use public instances
